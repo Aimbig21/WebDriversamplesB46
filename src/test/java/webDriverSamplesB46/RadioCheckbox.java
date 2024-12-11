@@ -25,7 +25,13 @@ public class RadioCheckbox {
 	            	driver.findElement(By.xpath("//input[@type='checkbox'][2]")).click();
 	            }
 	            
-	            
+	            String pageTitle = driver.getTitle();
+
+	            // Print the page title
+	            System.out.println("Page Title: " + pageTitle);
+
+	            // Close the browser session
+	            driver.quit();
   }
 	            
 }
