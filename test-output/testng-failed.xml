@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="webDriverSamplesB46.DisplayTexts">
+      <class name="webDriverSamplesB46.RadioCheckbox">
         <methods>
-          <include name="verifyBookDetails"/>
+          <include name="RadioCheckboxText"/>
         </methods>
-      </class> <!-- webDriverSamplesB46.DisplayTexts -->
+      </class> <!-- webDriverSamplesB46.RadioCheckbox -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

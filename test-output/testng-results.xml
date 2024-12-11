@@ -2,12 +2,12 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-12-10T15:02:06 IST" name="Default suite" finished-at="2024-12-10T15:02:16 IST" duration-ms="10132">
+  <suite started-at="2024-12-11T08:44:35 IST" name="Default suite" finished-at="2024-12-11T08:44:51 IST" duration-ms="15893">
     <groups>
     </groups>
-    <test started-at="2024-12-10T15:02:06 IST" name="Default test" finished-at="2024-12-10T15:02:16 IST" duration-ms="10132">
+    <test started-at="2024-12-11T08:44:35 IST" name="Default test" finished-at="2024-12-11T08:44:51 IST" duration-ms="15893">
       <class name="webDriverSamplesB46.RadioCheckbox">
-        <test-method signature="RadioCheckboxText()[pri:0, instance:webDriverSamplesB46.RadioCheckbox@52b1beb6]" started-at="2024-12-10T15:02:06 IST" name="RadioCheckboxText" finished-at="2024-12-10T15:02:16 IST" duration-ms="9997" status="PASS">
+        <test-method signature="RadioCheckboxText()[pri:0, instance:webDriverSamplesB46.RadioCheckbox@52b1beb6]" started-at="2024-12-11T08:44:36 IST" name="RadioCheckboxText" finished-at="2024-12-11T08:44:51 IST" duration-ms="15810" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- RadioCheckboxText -->

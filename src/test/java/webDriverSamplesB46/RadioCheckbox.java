@@ -24,6 +24,8 @@ public class RadioCheckbox {
 	            {
 	            	driver.findElement(By.xpath("//input[@type='checkbox'][2]")).click();
 	            }
+	            
+	            
   }
 	            
 }
